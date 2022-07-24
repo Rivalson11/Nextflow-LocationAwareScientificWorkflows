@@ -8,6 +8,7 @@
 - Commas: Single space after but not before comma
 - Code blocks: seperate with blank lines for readability.
 
+
 ## Naming Conventions
 - Variables: camelCase, begin with letter
 - Files: All lowercase
@@ -15,8 +16,7 @@
 ## Code blocks
 - Opening brackets: End of first line, single space
 - Closing brackets: New line after code, no space
-- Semi-colons: no semi-colons at end of line
-- Equating: '==='
+- Code is to be seperated with tabulations
 - Lines: Code may not exceed 80 characters in length
  ```sh
 function def fib( x ) {
